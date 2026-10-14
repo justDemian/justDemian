@@ -9,3 +9,5 @@ You need a special software but dont have the programming skills or time, im her
 Working in my game Hack&Hash next year(2027) in Steam, salutations to everyone :)
 
 Continued, almost the 1% ready, just 99% togo
+
+Godot programmer begginer, keep on 
