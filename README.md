@@ -1,13 +1,14 @@
-my name is @justDemian, well, thats it. what else do you need to know?
+# Hey! Soy Demian <sub><sub>justDem</sub></sub>
+Programador, Diseñador de Interfaces, Arquitecto de Videojuegos (también consumidor).
 
-programer :)
+Titulado en ***Programación y Análisis de Sistemas.***
 
-i need job :(
+> [!IMPORTANT]
+> En busca de trabajo.
 
-You need a special software but dont have the programming skills or time, im here :)
+Mi nombre es Demian, hablo inglés y español con fluidez, he trabajado en equipos de desarrollo, además he participado de múltiples proyectos para empresas pequeñas de mi localidad.
 
-Working in my game Hack&Hash next year(2027) in Steam, salutations to everyone :)
+Programar me fascina, siempre estaré buscando algo en lo que trabajar, pienso en _pseudo-código_, además me encanta el estilo ascii, por mí me encantaría hacer muchas cosas cosas con un estilo TUI.
 
-Continued, almost the 1% ready, just 99% togo
-
-Godot programmer begginer, keep on 
+> [!TIP]
+> Actualmente Trabajando en ***Slash&Hash*** y en ***AsciiAnvil***.
