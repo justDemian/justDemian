@@ -11,4 +11,4 @@ Mi nombre es Demian, hablo inglés y español con fluidez, he trabajado en equip
 Programar me fascina, siempre estaré buscando algo en lo que trabajar, pienso en _pseudo-código_, además me encanta el estilo ascii, por mí me encantaría hacer muchas cosas cosas con un estilo TUI.
 
 > [!TIP]
-> Actualmente Trabajando en ***Slash&Hash*** y en ***AsciiAnvil***.
+> Actualmente Desarrollando ***Slash&Hash*** y en ***AsciiAnvil***.
