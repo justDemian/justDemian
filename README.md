@@ -4,7 +4,7 @@ Programador, Diseñador de Interfaces, Arquitecto de Videojuegos (también consu
 Titulado en ***Programación y Análisis de Sistemas.***
 
 > [!IMPORTANT]
-> En busca de trabajo.
+> En busca de trabajo. // Ya no
 
 Mi nombre es Demian, hablo inglés y español con fluidez, he trabajado en equipos de desarrollo, además he participado de múltiples proyectos para empresas pequeñas de mi localidad.
 
