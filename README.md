@@ -1,4 +1,4 @@
-# Hey! Soy Demian <sub><sub>justDem</sub></sub>
+# Hey! Soy Demian <sub><sub>justDemian</sub></sub>
 Programador, Diseñador de Interfaces, Arquitecto de Videojuegos (también consumidor).
 
 Titulado en ***Programación y Análisis de Sistemas.***
